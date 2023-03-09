@@ -219,3 +219,13 @@ footer a:hover {
     text-decoration: underline;
     color: var(--cor2);
 }
+
+.link1 {
+    color: white;
+    text-decoration: none;
+}
+
+.link2 {
+    color: white;
+    text-decoration: none;
+}
